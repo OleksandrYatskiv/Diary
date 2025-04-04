@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|c:\\users\\yatsk\\desktop\\c# course\\diary\\diaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AFEBD69-ABE2-4C6A-8940-FE45BDD3CE13}|DiaryApp\\DiaryApp.csproj|solutionrelative:diaryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +26,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DiaryApp\\Views\\DiaryEntries\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Delete.cshtml",
-              "RelativeToolTip": "DiaryApp\\Views\\DiaryEntries\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T18:05:48.006Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "RelativeDocumentMoniker": "DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "RelativeToolTip": "DiaryApp\\Views\\DiaryEntries\\Index.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T16:35:54.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DiaryApp\\Views\\DiaryEntries\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Views\\DiaryEntries\\Edit.cshtml",
-              "RelativeToolTip": "DiaryApp\\Views\\DiaryEntries\\Edit.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-18T15:54:20.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DiaryEntry.cs",
-              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Models\\DiaryEntry.cs",
-              "RelativeDocumentMoniker": "DiaryApp\\Models\\DiaryEntry.cs",
-              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Models\\DiaryEntry.cs",
-              "RelativeToolTip": "DiaryApp\\Models\\DiaryEntry.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T13:37:10.228Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DiaryEntriesController.cs",
-              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Controllers\\DiaryEntriesController.cs",
-              "RelativeDocumentMoniker": "DiaryApp\\Controllers\\DiaryEntriesController.cs",
-              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Controllers\\DiaryEntriesController.cs",
-              "RelativeToolTip": "DiaryApp\\Controllers\\DiaryEntriesController.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAswFkAAAAIAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\.gitignore",
+              "RelativeDocumentMoniker": "DiaryApp\\.gitignore",
+              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\.gitignore",
+              "RelativeToolTip": "DiaryApp\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-04T09:49:23.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Program.cs",
+              "RelativeDocumentMoniker": "DiaryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\Program.cs",
+              "RelativeToolTip": "DiaryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T14:32:44.863Z",
+              "WhenOpened": "2025-04-04T09:32:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DiaryApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\appsettings.Development.json",
+              "RelativeToolTip": "DiaryApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T09:29:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DiaryApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\yatsk\\Desktop\\c# course\\Diary\\DiaryApp\\appsettings.json",
+              "RelativeToolTip": "DiaryApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T10:35:16.526Z",
               "EditorCaption": ""
             }
           ]

@@ -89,7 +89,6 @@ C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DiaryApp.props
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DiaryApp.props
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\DiaryApp.dll
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\refint\DiaryApp.dll
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\DiaryApp.pdb
@@ -219,3 +218,14 @@ C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\runtimes\win\li
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\DiaryApp.csproj.AssemblyReference.cache
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\DiaryApp.csproj.Up2Date
 C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\compressed\18rhluk5wq-9nh1zlv8vp.gz
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\DiaryApp.sourcelink.json
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yatsk\Desktop\c# course\Diary\DiaryApp\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
